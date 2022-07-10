@@ -1,0 +1,14 @@
+.kerdo {
+    font-size: 60px;
+    color: white;
+    background-color: #3cb878;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: solid  #cfcfcf 4px;
+    border-radius: 50%;
+    position: relative;
+    left: 0;
+    right: 0;
+
+}
